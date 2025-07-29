@@ -51,10 +51,6 @@
       "country": "Spain"
     },
     {
-      "name": "Benfica",
-      "country": "Portugal"
-    },
-    {
       "name": "Atalanta",
       "country": "Italy"
     },
@@ -71,15 +67,15 @@
       "country": "Germany"
     },
     {
-      "name": "Club Brugge",
-      "country": "Belgium"
-    }
-  ],
-  [
+      "name": "Rangers",
+      "country": "Scotland"
+    },
     {
       "name": "Tottenham",
       "country": "England"
-    },
+    }
+  ],
+  [
     {
       "name": "PSV",
       "country": "Netherlands"
@@ -93,7 +89,7 @@
       "country": "Italy"
     },
     {
-      "name": "Sporting CP",
+      "name": "Sporting",
       "country": "Portugal"
     },
     {
@@ -105,22 +101,26 @@
       "country": "Czechia"
     },
     {
-      "name": "Bodø/Glimt",
-      "country": "Norway"
-    },
-    {
       "name": "Marseille",
       "country": "France"
+    },
+    {
+      "name": "Fenerbahce",
+      "country": "Türkiye"
+    },
+    {
+      "name": "København",
+      "country": "Denmark"
     }
   ],
   [
     {
-      "name": "København",
-      "country": "Denmark"
+      "name": "Qarabag",
+      "country": "Azerbaijan"
     },
     {
-      "name": "Crvena zvezda",
-      "country": "Serbia"
+      "name": "Sturm Graz",
+      "country": "Austria"
     },
     {
       "name": "Monaco",
